@@ -1,2 +1,4 @@
-# SE-Lab
-addition of two numbers
+a = 10
+b = 20
+sum = a+b
+print("the addition of two numbers is ", sum)
